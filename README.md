@@ -95,9 +95,4 @@ Use **Postman** to test all endpoints.
 
 **Rakesh Kumar Mohanta**
 📧 [rakeshkumarmohanta04@gmail.com](mailto:rakeshkumarmohanta04@gmail.com)
-🔗 GitHub | LinkedIn
 
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub!
